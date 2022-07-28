@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page at GitHub Pages :)
 
 You can use the [editor on GitHub](https://github.com/poweedlow/cambodian-pancake/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
